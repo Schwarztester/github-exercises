@@ -6,6 +6,6 @@ public class Ogrenci {
         System.out.println("merhaba");
         System.out.println("üzüm çeşitleri");
 
-        System.out.println("Temel değil Tester olucaz");
+        System.out.println("Tembel değil Tester olucaz");
     }
 }
